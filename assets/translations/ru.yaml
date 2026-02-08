@@ -1,0 +1,425 @@
+pick_language: Просто выбери свой <b>язык</b> и погнали! 💪
+start: 🇷🇺 Старт (Русский)
+cancel: 🚫 Отмена
+
+weekly_challenge: 🏆 Weekly Challenge
+anon_chat: 👤 Анонимный чат
+anon_chat_start: 💬 Отправить сообщение
+demo_play: 🔥 Демо игры
+referral: 🚀 Реферал
+bonus: 🎁 Бонус
+check_bonus: 🔄 Проверить
+
+winning_schemes: ⚠️ Схемы выигрыша
+leaderboard: 📊 Статистика
+leaderboard_weekly: Неделя
+leaderboard_weekly_active: 🔺 Неделя
+leaderboard_all_time: За всё время
+leaderboard_all_time_active: 🔺 За всё время
+igaming_pass: 🎫 iGaming pass
+iguild: 👑 iGuild
+
+update_name: 🔄 Обновить имя
+send_email: 🎁 Получить награду
+claim_bonus: 📺 Получить бесплатные спины
+play: 🎰 Играть
+join: ✅ Вступить
+send: 💬 Опубликовать
+share: ↖️ Поделиться
+
+mute: 🔇 Замьютить
+unmute: 🔊 Размьютить
+ban: 🚫 Забанить
+unban: ✅ Разбанить
+
+forwarded_from: |
+  <code>Переслано</code> <code>от</code> {anon_name}
+
+forwarded_from_text: |
+  {message_text}
+
+  <code>Переслано</code> <code>от</code> {anon_name}
+
+tournament_info: |
+  <b>Турнир недели</b>
+  <code>{current_tournament_gems}</code> 💎 iGems
+  <code>{current_tournament_spins}</code> 🎰 спинов
+
+refill_time_info: |
+  Пополнение через <code>{next_refill_time}</code>
+
+few_seconds: несколько секунд
+
+watch_ad_success: |
+  🎉 <b>Бонус</b>
+
+  {anon_name}, баланс пополнен, ты снова в игре 👉 /spin
+  
+  <code>+10</code> 🎰
+
+admin_user_info: |
+  ID: <code>{user_id}</code>
+  Name: <code>{user_username}</code>
+  Lang: <code>{user_language}</code>
+
+iguild_info: |
+  👋 {username}, привет!
+  
+  👑 <b>iGuild</b> — первое <b>iGaming сообщество</b> с эксклюзивными NFT бонусами!
+
+  <blockquote>Здесь ты будешь первым  узнавать о новых играх, анонимно делиться заносами и просто кайфовать с такими же фанатами слотов, как и ты!</blockquote>
+  
+  {anon_name} твой псевдоним в анонимном чате 👉 /anon и турнире 🏆 <b>Weekly Challenge</b> 👉 /spin
+  
+  Наслаждайся всеми привилегиями клуба <b>оставаясь инкогнито</b> когда это нужно 🕵️‍♂️
+  
+  ⚔️ <b>Собери команду</b> и покажи всем, кто тут главный 👉 /ref
+
+  💬 <a href="{group_url}">Chats & Rewards</a> — общение, турниры и правила
+  
+  🇷🇺 <a href="https://t.me/iGuild_CIS">RU Channel</a> — обзоры игр и награды на русском
+  
+  🇬🇧 <a href="https://t.me/iGuild_EN">EN Channel</a> — всё то же, но английском языке
+  
+  Добро пожаловать в клуб!
+
+weekly_challenge_info: |
+  🏆 <b>Weekly Challenge</b> — настоящая королевская битва!
+  
+  Добро пожаловать в турнир!
+
+  <blockquote>Испытай свою удачу! Вращай барабаны, зарабатывай 💎 iGems монеты и поднимайся на вершину турнирной таблицы.</blockquote>
+
+  <b>Как играть?</b>
+  
+  1️⃣ Отправляй эмоджи <code>🎰</code> в чат 👉 /spin
+  
+  2️⃣ Пополнение баланса <b>каждый час</b>.
+  
+  3️⃣ Получай <code>+10</code> спинов играя <b>каждый день</b>.
+  
+  4️⃣ Приглашай друзей 👉 /ref и получай ещё больше наград.
+  
+  Займи 🥇 <b>Первое место</b> и надень 👑 <b>Корону победителя</b>. Королевские победы сохраняют корону в следующих турнирах!
+
+winning_schemes_info: |
+  ⚠️ <b>Схемы выигрыша</b> (комбинации)
+
+  7️⃣7️⃣7️⃣ — <code>70</code> 💎 iGems
+  🍇🍇🍇 — <code>30</code> 💎
+  🍸🍸🍸 — <code>20</code> 💎
+  🍋🍋🍋 — <code>20</code> 💎
+  7️⃣7️⃣ — <code>7</code> 💎
+  🍇🍇 — <code>3</code>💎
+  🍋🍋 — <code>2</code> 💎
+  🍸🍸 — <code>2</code> 💎
+
+  🏆 <b>Награждение</b>
+  
+  Турнир проводится еженедельно с понедельника по субботу включительно. Очки начисляются ежедневно, а итоги подводятся в воскресенье.
+
+  <b>Готов побеждать?</b>
+  Отправляй эмоджи <code>🎰</code> в чат или жми 👉 /spin
+
+igaming_pass_info: |
+  <b>Что такое iGaming Pass?</b>
+
+  Это входной билет в закрытый VIP клуб, гарантирующий место в сообществе и доступ к его привилегиям.
+
+  Выпущенный в виде <a href="https://iguild.io/market/collection/igaming-pass/?pid=Telegram">функциональной NFT</a> на блокчейне Polygon, 🎫 iGaming pass предоставляет владельцу эксклюзивные бонусы от партнёров проекта.
+
+  <b>Что дает iGaming Pass?</b>
+  🔸 Бонусы и подарки от популярных казино, провайдеров игр и стримеров: фриспины, фричипы, приватные розыгрыши, бонусы на депозиты и кэшбеки.
+  🔸 Регулярные розыгрыши и секретные мероприятия для холдеров.
+  🔸 Доступ к пресейлам NFT-коллекций от известных гейм-провайдеров.
+
+  💎 <b>Grand Lottery</b>
+  Присоединяйся к лотерее владельцев 🎫 iGaming Pass и получи шанс выиграть <a href="https://iguild.io/porsche-giveaway?pid=Telegram">Porsche Taycan</a>!
+
+referral_info: |
+  🚀 <b>Прогрессивные бонусы за активность</b>
+
+  Хочешь набирать очки быстрее? Приглашай друзей по своей реферальной ссылке!
+
+  {referral_link}
+
+  За каждого игрока, который участвует в недельном турнире, ты получаешь:
+  
+  <blockquote>🎰 <b>+10 спинов</b> каждый день
+  
+  💎 <b>5%</b> бонусных iGems <b>за каждую успешную комбинацию</b> реферала
+  
+  💎 <b>5% турнирного баланса</b> реферала занявшего призовое место 🥇🥈🥉</blockquote>
+
+  Чем больше активных рефералов — тем ближе победа!
+
+  ⚔️ <b>Твоя команда</b> <code>{referrals_shown}/{referrals_total}</code>
+
+  {referrals_text}
+
+referral_message: |
+  🔥 <b>iGuild Weekly Challenge</b> — настоящая королевская битва!
+  {referral_link}
+
+bonus_info: |
+  🚀 <b>Бустер спинов</b>
+  Выполняй задания 👇
+  Получай бонусы!
+
+  {channels_info}
+
+  Доступно <code>{spins_left}/{spins_limit}</code> 🎰 👉 /spin
+  {refill_time_info}
+
+channel_info: |
+  <b>{channel_name}</b>
+  {channel_link}
+  {subscribed} +10 🎰
+
+anon_chat_info: |
+  🥷 {username}, анонимность активирована!
+
+  Твой псевдоним {anon_name}
+
+  Рви турниры, публикуй достижения и общайся /anon оставаясь инкогнито 🕵️‍♂💬
+
+anon_chat_start_info: |
+  Анонимная пересылка сообщений в группу 👉 <a href="{group_url}">iGuild Community 3.0</a> / <a href="{feedback_topic_url}">Feedback</a>
+  
+  <blockquote>💬 Текстовое сообщение
+  🖼 Картинку
+  😎 Эмоджи или 📺 стикер</blockquote>
+  
+  Отправляй прямо <b>в этот чат</b> 👇
+
+anon_chat_message_sent: |
+  ✅ Сообщение отправлено, <a href="{message_url}">посмотреть</a>.
+
+leaderboard_info: |
+  📊 <b>Статистика</b>
+  
+  {anon_name}
+
+  <b>За всё время</b>
+  <code>{gems_total}</code> 💎 iGems
+  <code>{spins_total}</code> 🎰
+  
+  Получено от команды 👉 /ref
+  <code>{gems_referral}</code> 💎 iGems
+  
+  <code>x{tournament_wins}</code> 👑 Победы в турнирах
+  <code>x{tournament_king_wins}</code> 👑 Королевские победы
+  
+  ⚔️ <b>Турнирная таблица</b>
+
+  {leaderboard_text}
+
+leaderboard_info_weekly: |
+  📊 <b>Статистика</b>
+  
+  {anon_name}
+
+  <b>Турнир недели</b>
+  <code>{current_tournament_gems}</code> 💎 iGems
+  <code>{current_tournament_spins}</code> 🎰 спинов
+
+  Доступно <code>{spins_left}/{spins_limit}</code> 🎰 👉 /spin
+  {refill_time_info}
+
+  ⚔️ <b>Турнирная таблица</b>
+
+  {leaderboard_text}
+
+user_info: |
+  📊 <b>Статистика</b>
+  
+  {anon_name}
+
+  <b>За всё время</b>
+  <code>{gems_total}</code> 💎 iGems
+  <code>{spins_total}</code> 🎰 спинов
+
+  <code>x{tournament_wins}</code> 👑 Победы в турнирах
+  <code>x{tournament_king_wins}</code> 👑 Королевские победы
+
+  {tournament_info}
+
+  {admin_user_info}
+
+no_spins_left: |
+  🥺🌀 <b>Упс! У тебя закончились спины...</b>
+  
+  <b>Хочешь больше?</b>
+  💪 Выполняй задания /bonus
+  ⚔️ Собери свою команду /ref
+  📺 Получи бесплатные спины 👇
+  
+  Бесплатные спины будут доступны снова через
+  <code>{next_refill_time}</code>
+
+  {tournament_info}
+
+no_spins_warning: |
+  💪 <b>Не теряй прогресс!</b>
+  
+  {anon_name}, доступно <code>{spins_left}</code> <code>🎰</code> спинов 👉 /spin
+
+  <b>Крути и получи ещё больше!</b>
+  Начисляем <code>+10</code> <code>🎰</code> спинов <b>за каждый день</b> без перерыва.
+
+  {tournament_info}
+
+spins_refilled: |
+  🔔 <b>Пора выигрывать!</b>
+  
+  {anon_name}, баланс пополнен, ты снова в игре 👉 /spin
+  
+  Доступно <code>{spins_left}</code> <code>🎰</code> спинов
+  {refill_time_info}
+
+spins_refilled_referral: |
+  Новый друг из ⚔️ <b>Твоей команды</b> 👉 /ref начал играть!
+
+  <code>+10</code> <code>🎰</code> добавлены на баланс. Пришло время 👉 /spin
+
+spin_win: |
+  {random_text}
+
+  {spin_result} <code>+{spin_reward}</code> 💎 iGems
+
+  🎰 <code>{spins_left}</code>
+  💎 <code>{gems_total}</code>
+
+spin_win_777:
+  - Вау! 👏 У нас тут настоящая звезда! Все, давайте поаплодируем!
+  - 🏆 Чемпион на горизонте! Продолжай собирать заносы!
+  - Отличная работа! Ты сорвал 💎 джекпот, поймав три счастливых семёрки!
+  - 🔥 Ничего себе! Три семёрки подряд! Ты в огне!
+  - Вот это мастер! 😱 За тобой сложно угнаться!
+
+spin_win_ggg:
+  - 🍇 Сочные заносы на подходе! Крути барабаны дальше!
+  - Сладкий успех! 🍇 Виноград созрел для побед!
+  - Сочный джекпот! Три 🍇 виноградины приносят крупные выигрыши!
+  - Ожидания превзойдены! Твоя сладкая 🍇 виноградная удача!
+  - Тройной приз! Пусть твои очки будут такими же обильными, как 🍇 виноград!
+
+spin_win_bbb:
+  - Время праздновать! Поднимай 🍸 бокал за удачную серию!
+  - 🍸 Тройное удовольствие, тройной вкус! Поздравляем!
+  - Взболтай и наслаждайся 🍸 вкусом победы! Поздравляем с тройным заносом!
+  - Поднимай 🍸 бокал за трижды умноженный кайф! Ты в ударе!
+  - За 🍸 коктейль удачи! Тройное веселье, тройные награды!
+
+spin_win_lll:
+  - Когда жизнь даёт тебе 🍋 лимоны, ты получаешь сладкие награды! Так держать!
+  - Лимонад удачи! Три 🍋 лимона принесут тебе волну везения!
+  - 🍋 Кислая мощь! Три лимона — это знак, что ты на волне побед!
+  - 🍋 Лимонный успех! Наслаждайся сладкими наградами от своего выигрыша!
+  - Сочный занос! Лови 🍋 цитрусовые награды от своего удачного спина!
+
+spin_win_two:
+  - Два символа на барабане! 👏🏻 Ты на пути к большому успеху!
+  - 🎉 Почти три! Остался всего один символ до крупного заноса!
+  - Двойной удар! 💥 Крути дальше и пусть полоса удачи продолжается!
+  - Два символа, двойное удовольствие! 🔥 Ты всё ближе к большому выигрышу.
+  - 💪 Перспективная парочка! Два символа — это знак, что удача на твоей стороне.
+  - Близко! 🎉 Продолжай играть, возможно, следующий спин приблизит тебя к главному призу!
+  - Сладкая парочка! Молодец! 🚀 Попробуй ещё раз, впереди крупный занос!
+  - Воу-воу! Отличная работа, так держать! 👏🏻 Давай ещё один спин!
+  - Браво! Ты в ударе! 💪💪 Крути дальше, впереди ещё больше захватывающих наград!
+  - Круто сработано! 💎 Продолжай, возможно на следующем спине тебе улыбнётся удача!
+
+spin_lose: |
+  🎰 <code>{spins_left}</code>
+  💎 <code>{gems_total}</code>
+
+tournament_started: |
+  🏆 <b>Weekly Challenge</b> <code>{tournament_start_date}</code>
+
+  {anon_name}, королевская битва началась! Пора показать, на что ты способен!
+
+  Крути барабаны, собирай 💎 iGems, поднимайся на вершину турнирной таблицы и забирай 🎫 <a href="https://iguild.io/market/collection/igaming-pass/?pid=Telegram">iGaming Pass</a>.
+
+  Не упусти 👑 <b>Корону победителя</b>, игра уже идёт!
+
+tournament_ended_winner: |
+  🏆 <b>Weekly Challenge</b> <code>{tournament_end_date}</code>
+
+  🎉 <b>Победа!</b>
+  
+  Поздравляем, ты вошёл в тройку лидеров!
+
+  🏁 <b>Победители</b>
+
+  {leaderboard_text}
+
+tournament_ended_loser: |
+  🏆 <b>Weekly Challenge</b> <code>{tournament_end_date}</code>
+
+  Турнир завершен!
+
+  🏁 <b>Победители</b>
+
+  {leaderboard_text}
+
+  <blockquote>Крути спины 🎰, прокачивай скиллы 💪, получай 💎 iGems и 🎫 <a href="https://iguild.io/market/collection/igaming-pass/?pid=Telegram">iGaming Pass</a> может стать твоим!</blockquote>
+
+  У тебя есть все шансы <b>взять реванш</b> на следующей неделе!
+
+  <b>Готов стать легендой турнира?</b>
+  Начало 🎟 <code>{tournament_start_date}</code>
+
+first_place: 🥇 {gems} 💎 {anon_name}
+second_place: 🥈 {gems} 💎 {anon_name}
+third_place: 🥉 {gems} 💎 {anon_name}
+
+send_email_info: |
+  📧 Отправь <b>электронную почту</b> связанную <a href="https://iguild.io/?pid=Telegram">с твоим аккаунтом iGuild</a> в ответ на это сообщение.
+
+send_email_already_sent: |
+  👌 <b>Заявка принята</b>
+  
+  Ожидай награду на кошелек <b>True Wallet</b>.
+
+  ⚠️ <i>Необходимо подтверждение электронной почты <a href="https://iguild.io/app/profile/?pid=Telegram">в личном кабинете</a> iGuild.</i>
+
+send_email_sent: |
+  👌 <b>Заявка принята</b>
+  
+  Ожидай награду на кошелек <a href="https://iguild.io/?pid=Telegram">True Wallet</a>.
+
+send_email_error: |
+  ❌ <b>Ошибка</b>
+  
+  Что-то пошло не так. Свяжись с админом <a href="https://t.me/iGuild_game">группы</a>.
+
+mute_info: |
+  🔇 Анонимный чат недоступен!
+
+unmute_info: |
+  🔊 Доступ в анонимный чат восстановлен!
+
+ban_info: |
+  🚫 Бот недоступен!
+
+unban_info: |
+  ✅ Доступ восстановлен!
+
+mute_invalid_target: |
+  ❌ Невозможно 🔇 этого пользователя!
+
+ban_invalid_target: |
+  ❌ Невозможно 🚫 этого пользователя!
+
+mute_success: |
+  🔇 {anon_name}
+
+unmute_success: |
+  🔊 {anon_name}
+
+ban_success: |
+  🚫 {anon_name}
+
+unban_success: |
+  ✅ {anon_name}

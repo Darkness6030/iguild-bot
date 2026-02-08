@@ -1,0 +1,425 @@
+pick_language: Sadece <b>dilinizi</b> seçin ve gidelim! 💪
+start: 🇹🇷 Başla (Türkçe)
+cancel: 🚫 İptal
+
+weekly_challenge: 🏆 Haftalık Mücadele
+anon_chat: 👤 Anonim Sohbet
+anon_chat_start: 💬 Mesaj Gönder
+demo_play: 🔥 Demo Oyun
+referral: 🚀 Referral
+bonus: 🎁 Bonus
+check_bonus: 🔄 Kontrol Et
+
+winning_schemes: ⚠️ Kazanma Şemaları
+leaderboard: 📊 İstatistik
+leaderboard_weekly: Hafta
+leaderboard_weekly_active: 🔺 Hafta
+leaderboard_all_time: Tüm Zamanlar
+leaderboard_all_time_active: 🔺 Tüm Zamanlar
+igaming_pass: 🎫 iGaming geçişi
+iguild: 👑 iGuild
+
+update_name: 🔄 İsim Güncelle
+send_email: 🎁 Ödül Al
+claim_bonus: 📺 Ücretsiz Döndürmeleri Talep Et
+play: 🎰 Oyna
+join: ✅ Katıl
+send: 💬 Yayınla
+share: ↖️ Paylaş
+
+mute: 🔇 Sustur
+unmute: 🔊 Susturmayı Kaldır
+ban: 🚫 Yasakla
+unban: ✅ Yasak Kaldır
+
+forwarded_from: |
+  <code>İletildi</code> <code>şuradan</code> {anon_name}
+
+forwarded_from_text: |
+  {message_text}
+
+  <code>İletildi</code> <code>şuradan</code> {anon_name}
+
+tournament_info: |
+  <b>Haftanın Turnuvası</b>
+  <code>{current_tournament_gems}</code> 💎 iGems
+  <code>{current_tournament_spins}</code> 🎰 spin
+
+refill_time_info: |
+  Yenileme zamanı <code>{next_refill_time}</code> üzerinden
+
+few_seconds: birkaç saniye
+
+watch_ad_success: |
+  🎉 <b>Bonus</b>
+
+  {anon_name}, bakiyeniz güncellendi, oyuna geri döndünüz 👉 /spin
+  
+  <code>+10</code> 🎰
+
+admin_user_info: |
+  ID: <code>{user_id}</code>
+  İsim: <code>{user_username}</code>
+  Dil: <code>{user_language}</code>
+
+iguild_info: |
+  👋 {username}, hoş geldin!
+  
+  👑 <b>iGuild</b> — özel NFT bonusları ile ilk <b>iGaming topluluğu</b>!
+
+  <blockquote>Burada yeni oyunlar hakkında bilgi alacak, anonim olarak kazançlarını paylaşacak ve senin gibi slot tutkunlarıyla eğleneceksin!</blockquote>
+  
+  {anon_name} anonim sohbetteki takma adın 👉 /anon ve turnuvada 🏆 <b>Haftalık Mücadele</b> 👉 /spin
+  
+  Gerektiğinde <b>incognito kalmanın</b> tüm ayrıcalıklarının tadını çıkar! 🕵️‍♂️
+  
+  ⚔️ <b>Bir takım kur</b> ve buranın kralını herkese göster 👉 /ref
+
+  💬 <a href="{group_url}">Sohbetler & Ödüller</a> — iletişim, turnuvalar ve kurallar
+  
+  🇷🇺 <a href="https://t.me/iGuild_CIS">RU Kanalı</a> — Rusça oyun incelemeleri ve ödüller
+  
+  🇬🇧 <a href="https://t.me/iGuild_EN">EN Kanalı</a> — İngilizce aynı içerik
+
+  Kulübümüze hoş geldin!
+
+weekly_challenge_info: |
+  🏆 <b>Haftalık Mücadele</b> — gerçek bir kraliyet savaşı!
+
+  Turnuvaya hoş geldin!
+
+  <blockquote>Şansını dene! Makaraları döndür, 💎 iGems paralarını kazan ve turnuva tablosunun zirvesine çık.</blockquote>
+
+  <b>Nasıl oynanır?</b>
+  
+  1️⃣ Sohbette <code>🎰</code> emojisini gönder 👉 /spin
+  
+  2️⃣ Bakiyen her <b>saat</b> yenilenir.
+  
+  3️⃣ Her gün oynayarak <code>+10</code> spin kazan.
+  
+  4️⃣ Arkadaşlarını davet et 👉 /ref ve daha fazla ödül kazan.
+
+  🥇 <b>Birinci ol</b> ve 👑 <b>Zafer Tacını</b> tak. Kraliyet zaferleri, sonraki turnuvalarda tacı korur!
+
+winning_schemes_info: |
+  ⚠️ <b>Kazanma Şemaları</b> (kombinasyonlar)
+
+  7️⃣7️⃣7️⃣ — <code>70</code> 💎 iGems
+  🍇🍇🍇 — <code>30</code> 💎
+  🍸🍸🍸 — <code>20</code> 💎
+  🍋🍋🍋 — <code>20</code> 💎
+  7️⃣7️⃣ — <code>7</code> 💎
+  🍇🍇 — <code>3</code> 💎
+  🍋🍋 — <code>2</code> 💎
+  🍸🍸 — <code>2</code> 💎
+
+  🏆 <b>Ödüllendirme</b>
+  
+  Turnuva, pazartesiden cumartesiye kadar haftalık olarak düzenlenir. Puanlar günlük olarak verilir ve sonuçlar pazar günü açıklanır.
+
+  <b>Zafer kazanmaya hazır mısın?</b>
+  Sohbette <code>🎰</code> emojisini gönder veya 👉 /spin'e tıkla!
+
+igaming_pass_info: |
+  <b>iGaming Pass nedir?</b>
+
+  Bu, kapalı VIP kulübüne giriş bileti, toplulukta yer garantisi ve ayrıcalıklarına erişim sağlar.
+
+  <a href="https://iguild.io/market/collection/igaming-pass/?pid=Telegram">Fonksiyonel bir NFT</a> olarak Polygon blockchain üzerinde çıkarılan 🎫 iGaming Pass, sahibine projeye ortaklardan özel bonuslar sunar.
+
+  <b>iGaming Pass ne sağlar?</b>
+  🔸 Popüler casinolar, oyun sağlayıcıları ve yayıncılardan bonuslar ve hediyeler: free spins, free chips, özel çekilişler, depozit bonusları ve cashback.
+  🔸 Holderlar için düzenli çekilişler ve gizli etkinlikler.
+  🔸 Ünlü oyun sağlayıcılarının NFT koleksiyonlarının ön satışlarına erişim.
+
+  💎 <b>Büyük Çekiliş</b>
+  🎫 iGaming Pass sahipleri için çekilişe katıl ve <a href="https://iguild.io/porsche-giveaway?pid=Telegram">Porsche Taycan</a> kazanma şansını elde et!
+
+referral_info: |
+  🚀 <b>Aktivite için ilerleyici bonuslar</b>
+
+  Puanları daha hızlı mı kazanmak istiyorsun? Arkadaşlarını davet et, kendi referans linkinle!
+
+  {referral_link}
+
+  Haftalık turnuvaya katılan her oyuncu için:
+  
+  <blockquote>🎰 <b>Her gün +10 spin</b>
+  
+  💎 <b>Her başarılı referans kombinasyonu için %5</b> bonus iGems
+  
+  💎 <b>Referansın ödül kazanan turnuva bakiyesinin %5'i</b> 🥇🥈🥉</blockquote>
+
+  Ne kadar çok aktif referansın olursa, zafer o kadar yakın!
+
+  ⚔️ <b>Ekibin</b> <code>{referrals_shown}/{referrals_total}</code>
+
+  {referrals_text}
+
+referral_message: |
+  🔥 <b>iGuild Weekly Challenge</b> — gerçek bir savaş alanı!
+  {referral_link}
+
+bonus_info: |
+  🚀 <b>Spin Güçlendirici</b>
+  Görevleri tamamla 👇
+  ve bonusları biriktir!
+
+  {channels_info}
+
+  Mevcut <code>{spins_left}/{spins_limit}</code> 🎰 👉 /spin
+  {refill_time_info}
+
+channel_info: |
+  <b>{channel_name}</b>
+  {channel_link}
+  {subscribed} +10 🎰
+
+anon_chat_info: |
+  🥷 {username}, anonimlik aktif!
+
+  Takma adın {anon_name}
+
+  Turnuvaları patlat, başarılarını paylaş ve /anon ile incognito kalarak sohbet et 🕵️‍♂💬
+
+anon_chat_start_info: |
+  Grupla anonim mesaj iletimi 👉 <a href="{group_url}">iGuild Community 3.0</a> / <a href="{feedback_topic_url}">Geri Bildirim</a>
+  
+  <blockquote>💬 Metin mesajı
+  🖼 Resim
+  😎 Emoji veya 📺 sticker</blockquote>
+  
+  Doğrudan <b>bu sohbete</b> gönder 👇
+
+anon_chat_message_sent: |
+  ✅ Mesaj gönderildi, <a href="{message_url}">görüntüle</a>.
+
+leaderboard_info: |
+  📊 <b>İstatistikler</b>
+  
+  {anon_name}
+
+  <b>Tüm zamanlar</b>
+  <code>{gems_total}</code> 💎 iGems
+  <code>{spins_total}</code> 🎰
+  
+  Takımından gelenler 👉 /ref
+  <code>{gems_referral}</code> 💎 iGems
+  
+  <code>x{tournament_wins}</code> 👑 Turnuva zaferleri
+  <code>x{tournament_king_wins}</code> 👑 Kraliyet zaferleri
+  
+  ⚔️ <b>Turnuva Tablosu</b>
+
+  {leaderboard_text}
+
+leaderboard_info_weekly: |
+  📊 <b>İstatistikler</b>
+  
+  {anon_name}
+
+  <b>Haftanın Turnuvası</b>
+  <code>{current_tournament_gems}</code> 💎 iGems
+  <code>{current_tournament_spins}</code> 🎰 spin
+
+  <code>{spins_left}/{spins_limit}</code> 🎰 👉 /spin
+  {refill_time_info}
+
+  ⚔️ <b>Turnuva Tablosu</b>
+
+  {leaderboard_text}
+
+user_info: |
+  📊 <b>İstatistikler</b>
+  
+  {anon_name}
+
+  <b>Tüm zamanlar</b>
+  <code>{gems_total}</code> 💎 iGems
+  <code>{spins_total}</code> 🎰 spinin
+
+  <code>x{tournament_wins}</code> 👑 Turnuva zaferleri
+  <code>x{tournament_king_wins}</code> 👑 Kraliyet zaferleri
+
+  {tournament_info}
+
+  {admin_user_info}
+
+no_spins_left: |
+  🥺🌀 <b>Oops! Spinleriniz bitti...</b>
+  
+  <b>Daha fazla mı istiyorsun?</b>
+  💪 Görevleri tamamla /bonus
+  ⚔️ Takımını kur /ref
+  📺 Ücretsiz döndürmeleri talep et 👇
+  
+  Ücretsiz döndürmeler
+  <code>{next_refill_time}</code> içinde geri gelecek
+
+  {tournament_info}
+
+no_spins_warning: |
+  💪 <b>İlerlemeni kaybetme!</b>
+  
+  {anon_name}, <code>{spins_left}</code> <code>🎰</code> spinin kaldı 👉 /spin
+
+  <b>Dön ve daha fazlasını kazan!</b>
+  Her gün <code>+10</code> <code>🎰</code> spin kazanıyorsun, ara vermeden.
+
+  {tournament_info}
+
+spins_refilled: |
+  🔔 <b>Kazanma zamanı!</b>
+  
+  {anon_name}, bakiyen yenilendi, tekrar oyundasın 👉 /spin
+  
+  <code>{spins_left}</code> <code>🎰</code> spinin var
+  {refill_time_info}
+
+spins_refilled_referral: |
+  ⚔️ <b>Ekibindeki yeni bir dost</b> 👉 /ref oynamaya başladı!
+
+  <code>+10</code> <code>🎰</code> bakiyene eklendi. Şimdi 👉 /spin yapma zamanı!
+
+spin_win: |
+  {random_text}
+
+  {spin_result} <code>+{spin_reward}</code> 💎 iGems
+
+  🎰 <code>{spins_left}</code>
+  💎 <code>{gems_total}</code>
+
+spin_win_777:
+  - Vay! 👏 Gerçek bir yıldız var burada! Hadi, alkışlayalım!
+  - 🏆 Şampiyon ufukta! Kazançlarını toplamaya devam et!
+  - Harika iş! Üç şanslı yedili yakalayarak 💎 jackpot'u kazandın!
+  - 🔥 Vay canına! Üç yedili birden! Alevdesin!
+  - İşte bu ustalık! 😱 Seni yakalamak zor!
+
+spin_win_ggg:
+  - 🍇 Meyvemsi kazançlar yolda! Daha fazla çevir!
+  - Tatlı başarı! 🍇 Üzümler zafer için olgunlaştı!
+  - Meyvemsi jackpot! Üç 🍇 üzüm büyük kazançlar getiriyor!
+  - Beklentilerin ötesinde! Tatlı 🍇 üzüm şansın!
+  - Üçlü ödül! Puanlarının 🍇 üzüm kadar bol olsun!
+
+spin_win_bbb:
+  - Kutlama zamanı! 🍸 kadehini yükselt ve kazanç serisine!
+  - 🍸 Üç kat zevk, üç kat tat! Tebrikler!
+  - Karıştır ve zafer tadını çıkar! Üçlü kazanç için tebrikler!
+  - 🍸 Şanslı üçlünü kutla! Alevdesin!
+  - 🍸 Şans kokteyli! Üç kat eğlence, üç kat ödül!
+
+spin_win_lll:
+  - Hayat sana 🍋 limon veriyorsa, tatlı ödüller kapını çalıyor! Devam et!
+  - Şans limonatası! Üç 🍋 limon seni şans dalgasına sokacak!
+  - 🍋 Ekşi güç! Üç limon — bu, zaferin yolda olduğunu gösteriyor!
+  - 🍋 Limonlu başarı! Kazancının tatlı ödüllerinin tadını çıkar!
+  - Meyvemsi kazanç! Şanslı spininden 🍋 narenciye ödüllerini yakala!
+
+spin_win_two:
+  - Makara üzerinde iki sembol! 👏🏻 Büyük başarıya yolda!
+  - 🎉 Neredeyse üç! Büyük bir kazanç için sadece bir sembol kaldı!
+  - Çift vuruş! 💥 Devam et ve şansın devam etsin!
+  - İki sembol, iki kat eğlence! 🔥 Büyük kazanca daha da yaklaşıyorsun.
+  - 💪 Umut veren çift! İki sembol — bu şansın senin yanında olduğunun işareti.
+  - Yakın! 🎉 Oynamaya devam et, belki bir sonraki spin seni büyük ödüle yaklaştırır!
+  - Tatlı çift! Harika iş! 🚀 Bir daha dene, büyük kazanç yolda!
+  - Vay vay! Harika bir iş, devam et! 👏🏻 Hadi bir spin daha!
+  - Bravo! Alevdesin! 💪💪 Devam et, daha fazla heyecan verici ödül var!
+  - Harika iş çıkardın! 💎 Devam et, belki bir sonraki spin sana şans getirecek!
+
+spin_lose: |
+  🎰 <code>{spins_left}</code>
+  💎 <code>{gems_total}</code>
+
+tournament_started: |
+  🏆 <b>Weekly Challenge</b> <code>{tournament_start_date}</code>
+
+  {anon_name}, kraliyet savaşı başladı! Şimdi ne yapabileceğini gösterme zamanı!
+
+  Makaraları çevir, 💎 iGems topla, turnuva sıralamasında yüksel ve 🎫 <a href="https://iguild.io/market/collection/igaming-pass/?pid=Telegram">iGaming Pass</a>'i kap.
+
+  👑 <b>Zafer Tacı</b>'nı kaçırma, oyun çoktan başladı!
+
+tournament_ended_winner: |
+  🏆 <b>Weekly Challenge</b> <code>{tournament_end_date}</code>
+
+  🎉 <b>Zafer!</b>
+  
+  Tebrikler, ilk üçe girdin!
+
+  🏁 <b>Kazananlar</b>
+
+  {leaderboard_text}
+
+tournament_ended_loser: |
+  🏆 <b>Weekly Challenge</b> <code>{tournament_end_date}</code>
+
+  Turnuva sona erdi!
+
+  🏁 <b>Kazananlar</b>
+
+  {leaderboard_text}
+
+  <blockquote>Makaraları çevir 🎰, yeteneklerini geliştir 💪, 💎 iGems kazan ve 🎫 <a href="https://iguild.io/market/collection/igaming-pass/?pid=Telegram">iGaming Pass</a> senin olabilir!</blockquote>
+
+  Gelecek hafta <b>intikamını almak</b> için tüm şansın var!
+
+  <b>Turnuva efsanesi olmaya hazır mısın?</b>
+  Başlangıç 🎟 <code>{tournament_start_date}</code>
+
+first_place: 🥇 {gems} 💎 {anon_name}
+second_place: 🥈 {gems} 💎 {anon_name}
+third_place: 🥉 {gems} 💎 {anon_name}
+
+send_email_info: |
+  📧 Bu mesaja yanıt olarak <a href="https://iguild.io/?pid=Telegram">iGuild hesabınla</a> bağlantılı <b>e-posta adresini</b> gönder.
+
+send_email_already_sent: |
+  👌 <b>Başvuru alındı</b>
+  
+  Ödülünü <b>True Wallet</b>'a bekle.
+
+  ⚠️ <i>E-postanın onaylanması gerekiyor <a href="https://iguild.io/app/profile/?pid=Telegram">iGuild profilinde</a>.</i>
+
+send_email_sent: |
+  👌 <b>Başvuru alındı</b>
+  
+  Ödülünü <a href="https://iguild.io/?pid=Telegram">True Wallet</a>'a bekle.
+
+send_email_error: |
+  ❌ <b>Hata</b>
+  
+  Bir şeyler ters gitti. <a href="https://t.me/iGuild_game">Grup yöneticisi</a> ile iletişime geç.
+
+mute_info: |
+  🔇 Anonim sohbet kapalı!
+
+unmute_info: |
+  🔊 Anonim sohbete erişim geri verildi!
+
+ban_info: |
+  🚫 Bot kullanılamaz!
+
+unban_info: |
+  ✅ Erişim geri verildi!
+
+mute_invalid_target: |
+  ❌ Bu kullanıcıya 🔇 uygulanamaz!
+
+ban_invalid_target: |
+  ❌ Bu kullanıcıya 🚫 uygulanamaz!
+
+mute_success: |
+  🔇 {anon_name}
+
+unmute_success: |
+  🔊 {anon_name}
+
+ban_success: |
+  🚫 {anon_name}
+
+unban_success: |
+  ✅ {anon_name}

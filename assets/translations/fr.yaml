@@ -1,0 +1,425 @@
+pick_language: Choisis simplement ta <b>langue</b> et c’est parti ! 💪
+start: 🇫🇷 Démarrer (Français)
+cancel: 🚫 Annuler
+
+weekly_challenge: 🏆 Défi Hebdomadaire
+anon_chat: 👤 Chat Anonyme
+anon_chat_start: 💬 Envoyer un message
+demo_play: 🔥 Jeux Démo
+referral: 🚀 Référence
+bonus: 🎁 Bonus
+check_bonus: 🔄 Vérifier
+
+winning_schemes: ⚠️ Stratégies Gagnantes
+leaderboard: 📊 Classement
+leaderboard_weekly: Semaine
+leaderboard_weekly_active: 🔺 Semaine
+leaderboard_all_time: Tout le temps
+leaderboard_all_time_active: 🔺 Tout le temps
+igaming_pass: 🎫 iGaming pass
+iguild: 👑 iGuild
+
+update_name: 🔄 Mettre à jour le nom
+send_email: 🎁 Recevoir la récompense
+claim_bonus: 📺 Réclamez Tours Gratuits
+play: 🎰 Jouer
+join: ✅ Rejoindre
+send: 💬 Publier
+share: ↖️ Partager
+
+mute: 🔇 Couper le son
+unmute: 🔊 Rétablir le son
+ban: 🚫 Bannir
+unban: ✅ Débannir
+
+forwarded_from: |
+  <code>Transféré</code> <code>de</code> {anon_name}
+
+forwarded_from_text: |
+  {message_text}
+
+  <code>Transféré</code> <code>de</code> {anon_name}
+
+tournament_info: |
+  <b>Tournoi de la semaine</b>
+  <code>{current_tournament_gems}</code> 💎 iGems
+  <code>{current_tournament_spins}</code> 🎰 tours
+
+refill_time_info: |
+  Recharge dans <code>{next_refill_time}</code>
+
+few_seconds: quelques secondes
+
+watch_ad_success: |
+  🎉 <b>Bonus</b>
+
+  {anon_name}, votre solde a été rechargé, vous êtes de retour dans le jeu 👉 /spin
+  
+  <code>+10</code> 🎰
+
+admin_user_info: |
+  ID: <code>{user_id}</code>
+  Nom: <code>{user_username}</code>
+  Langue: <code>{user_language}</code>
+
+iguild_info: |
+  👋 {username}, salut !
+
+  👑 <b>iGuild</b> — la première <b>communauté iGaming</b> avec des bonus NFT exclusifs !
+
+  <blockquote>Ici, tu seras le premier à découvrir les nouveaux jeux, à partager anonymement tes gros gains et à kiffer avec d'autres fans de machines à sous comme toi !</blockquote>
+
+  {anon_name} est ton pseudo dans le chat anonyme 👉 /anon et dans le tournoi 🏆 <b>Défi Hebdomadaire</b> 👉 /spin
+
+  Profite de tous les privilèges du club <b>tout en restant incognito</b> quand tu le souhaites 🕵️‍♂️
+
+  ⚔️ <b>Forme une équipe</b> et montre à tout le monde qui est le boss 👉 /ref
+
+  💬 <a href="{group_url}">Chats & Récompenses</a> — discussions, tournois et règles
+
+  🇷🇺 <a href="https://t.me/iGuild_CIS">Canal RU</a> — critiques de jeux et récompenses en russe
+
+  🇬🇧 <a href="https://t.me/iGuild_EN">Canal EN</a> — même contenu en anglais
+
+  Bienvenue dans le club !
+
+weekly_challenge_info: |
+  🏆 <b>Défi Hebdomadaire</b> — c’est la vraie bataille royale !
+
+  Bienvenue au tournoi !
+
+  <blockquote>Teste ta chance ! Fais tourner les rouleaux, accumule des 💎 iGems et grimpe en haut du classement.</blockquote>
+
+  <b>Comment jouer ?</b>
+
+  1️⃣ Envoie l’emoji <code>🎰</code> dans le chat 👉 /spin
+
+  2️⃣ Recharge ton solde <b>toutes les heures</b>.
+
+  3️⃣ Gagne <code>+10</code> tours en jouant <b>chaque jour</b>.
+
+  4️⃣ Invite des amis 👉 /ref et gagne encore plus de récompenses.
+
+  Prends la 🥇 <b>Première place</b> et porte la 👑 <b>Couronne de Champion</b>. Les victoires royales te permettent de garder la couronne pour les prochains tournois !
+
+winning_schemes_info: |
+  ⚠️ <b>Combinaisons Gagnantes</b>
+
+  7️⃣7️⃣7️⃣ — <code>70</code> 💎 iGems
+  🍇🍇🍇 — <code>30</code> 💎
+  🍸🍸🍸 — <code>20</code> 💎
+  🍋🍋🍋 — <code>20</code> 💎
+  7️⃣7️⃣ — <code>7</code> 💎
+  🍇🍇 — <code>3</code> 💎
+  🍋🍋 — <code>2</code> 💎
+  🍸🍸 — <code>2</code> 💎
+
+  🏆 <b>Récompense</b>
+
+  Le tournoi a lieu chaque semaine, du lundi au samedi. Les points sont attribués quotidiennement, et les résultats sont annoncés le dimanche.
+
+  <b>Prêt à gagner ?</b>
+  Envoie l’emoji <code>🎰</code> dans le chat ou clique 👉 /spin
+
+igaming_pass_info: |
+  <b>Qu’est-ce que le iGaming Pass ?</b>
+
+  C’est ton billet d’entrée dans le club VIP, qui te garantit une place dans la communauté et un accès à ses privilèges.
+
+  Émis sous la forme d’un <a href="https://iguild.io/market/collection/igaming-pass/?pid=Telegram">NFT fonctionnel</a> sur la blockchain Polygon, 🎫 le iGaming pass donne à son détenteur des bonus exclusifs des partenaires du projet.
+
+  <b>Que te donne le iGaming Pass ?</b>
+  🔸 Des bonus et cadeaux des casinos populaires, des fournisseurs de jeux et des streamers : free spins, free chips, tirages privés, bonus sur dépôt et cashback.
+  🔸 Des tirages réguliers et des événements secrets pour les détenteurs.
+  🔸 Accès aux préventes de collections NFT des fournisseurs de jeux renommés.
+
+  💎 <b>Grand Loterie</b>
+  Participe à la loterie des détenteurs de 🎫 iGaming Pass et tente ta chance de gagner une <a href="https://iguild.io/porsche-giveaway?pid=Telegram">Porsche Taycan</a> !
+
+referral_info: |
+  🚀 <b>Bonus Progressifs pour Activité</b>
+
+  Tu veux gagner des points plus vite ? Invite tes amis avec ton lien de parrainage !
+
+  {referral_link}
+
+  Pour chaque joueur qui participe au tournoi hebdomadaire, tu gagnes :
+
+  <blockquote>🎰 <b>+10 tours</b> chaque jour
+  
+  💎 <b>5%</b> des iGems bonus <b>pour chaque combinaison gagnante</b> de ton parrainé
+  
+  💎 <b>5% du solde du tournoi</b> de ton parrainé s’il décroche une place 🥇🥈🥉</blockquote>
+
+  Plus tu as de parrainés actifs, plus tu es proche de la victoire !
+
+  ⚔️ <b>Ton équipe</b> <code>{referrals_shown}/{referrals_total}</code>
+
+  {referrals_text}
+
+referral_message: |
+  🔥 <b>iGuild Weekly Challenge</b> — c’est une vraie bataille royale!
+  {referral_link}
+
+bonus_info: |
+  🚀 <b>Boosteur de Spins</b>
+  Écrase les tâches 👇
+  et accumule les bonus !
+
+  {channels_info}
+
+  Disponible <code>{spins_left}/{spins_limit}</code> 🎰 👉 /spin
+  {refill_time_info}
+  
+channel_info: |
+  <b>{channel_name}</b>
+  {channel_link}
+  {subscribed} +10 🎰
+
+anon_chat_info: |
+  🥷 {username}, l’anonymat est activé !
+
+  Ton pseudo est {anon_name}
+
+  Domine les tournois, publie tes victoires et discute en restant incognito /anon 🕵️‍♂💬
+
+anon_chat_start_info: |
+  Envoie des messages anonymes dans le groupe 👉 <a href="{group_url}">iGuild Community 3.0</a> / <a href="{feedback_topic_url}">Feedback</a>
+
+  <blockquote>💬 Message texte
+  🖼 Image
+  😎 Emoji ou 📺 sticker</blockquote>
+
+  Envoie directement <b>dans ce chat</b> 👇
+
+anon_chat_message_sent: |
+  ✅ Message envoyé, <a href="{message_url}">voir</a>.
+
+leaderboard_info: |
+  📊 <b>Statistiques</b>
+
+  {anon_name}
+
+  <b>De tous les temps</b>
+  <code>{gems_total}</code> 💎 iGems
+  <code>{spins_total}</code> 🎰
+
+  Gagné avec ton équipe 👉 /ref
+  <code>{gems_referral}</code> 💎 iGems
+
+  <code>x{tournament_wins}</code> 👑 Victoires de tournois
+  <code>x{tournament_king_wins}</code> 👑 Victoires royales
+
+  ⚔️ <b>Tableau de classement</b>
+
+  {leaderboard_text}
+
+leaderboard_info_weekly: |
+  📊 <b>Statistiques</b>
+
+  {anon_name}
+
+  <b>Tournoi de la semaine</b>
+  <code>{current_tournament_gems}</code> 💎 iGems
+  <code>{current_tournament_spins}</code> 🎰 tours
+
+  Disponible <code>{spins_left}/{spins_limit}</code> 🎰 👉 /spin
+  {refill_time_info}
+
+  ⚔️ <b>Tableau de classement</b>
+
+  {leaderboard_text}
+
+user_info: |
+  📊 <b>Statistiques</b>
+
+  {anon_name}
+
+  <b>De tous les temps</b>
+  <code>{gems_total}</code> 💎 iGems
+  <code>{spins_total}</code> 🎰 tours
+
+  <code>x{tournament_wins}</code> 👑 Victoires de tournois
+  <code>x{tournament_king_wins}</code> 👑 Victoires royales
+
+  {tournament_info}
+
+  {admin_user_info}
+
+no_spins_left: |
+  🥺🌀 <b>Oups ! Tu n'as plus de tours...</b>
+  
+  <b>Tu en veux plus ?</b>
+  💪 Accomplis les tâches /bonus
+  ⚔️ Crée ton équipe /ref
+  📺 Réclame des tours gratuits 👇
+  
+  Les tours gratuits seront de retour dans
+  <code>{next_refill_time}</code>
+
+  {tournament_info}
+
+no_spins_warning: |
+  💪 <b>Ne perds pas ton élan !</b>
+
+  {anon_name}, il te reste <code>{spins_left}</code> <code>🎰</code> tours 👉 /spin
+
+  <b>Continue et gagne encore plus !</b>
+  On ajoute <code>+10</code> <code>🎰</code> tours <b>chaque jour</b> sans pause.
+
+  {tournament_info}
+
+spins_refilled: |
+  🔔 <b>C’est l’heure de gagner !</b>
+
+  {anon_name}, ton solde a été rechargé, tu es de retour dans la partie 👉 /spin
+
+  Il te reste <code>{spins_left}</code> <code>🎰</code> tours
+  {refill_time_info}
+
+spins_refilled_referral: |
+  Un nouvel ami de ⚔️ <b>Ton équipe</b> 👉 /ref a commencé à jouer !
+
+  <code>+10</code> <code>🎰</code> ajoutés à ton solde. C’est le moment de 👉 /spin
+
+spin_win: |
+  {random_text}
+
+  {spin_result} <code>+{spin_reward}</code> 💎 iGems
+
+  🎰 <code>{spins_left}</code>
+  💎 <code>{gems_total}</code>
+
+spin_win_777:
+  - Wow ! 👏 Une vraie star par ici ! Allez, tout le monde, applaudissons !
+  - 🏆 Un champion se profile ! Continue à récolter des victoires !
+  - Excellent boulot ! Tu as décroché le 💎 jackpot avec trois chanceux 7 !
+  - 🔥 Incroyable ! Trois 7 d’affilée ! Tu es en feu !
+  - Quel talent ! 😱 Difficile de te rattraper !
+
+spin_win_ggg:
+  - 🍇 Des victoires juteuses arrivent ! Continue de tourner !
+  - Un succès sucré ! 🍇 Les raisins sont prêts pour la victoire !
+  - Un jackpot juteux ! Trois 🍇 raisins t’apportent de gros gains !
+  - Au-delà des attentes ! Ta douce chance 🍇 est inégalée !
+  - Triple prix ! Que tes points soient aussi abondants que les 🍇 raisins !
+
+spin_win_bbb:
+  - C’est l’heure de célébrer ! Soulève ton 🍸 verre pour cette belle série !
+  - 🍸 Triple plaisir, triple saveur ! Félicitations !
+  - Agite et profite du 🍸 goût de la victoire ! Félicitations pour ce triple jackpot !
+  - Soulève ton 🍸 verre pour un plaisir triplé ! Tu es en feu !
+  - Pour 🍸 le cocktail de la chance ! Triple fun, triples récompenses !
+
+spin_win_lll:
+  - Quand la vie te donne des 🍋 citrons, tu récoltes de belles récompenses ! Continue comme ça !
+  - Limonade de la chance ! Trois 🍋 citrons t’apportent une vague de victoire !
+  - 🍋 La puissance acide ! Trois citrons, c’est un signe que tu es sur la vague de la victoire !
+  - 🍋 Le succès citronné ! Savoure tes récompenses sucrées grâce à ton gain !
+  - Une victoire juteuse ! Profite des 🍋 récompenses citronnées de ton spin réussi !
+
+spin_win_two:
+  - Deux symboles sur le rouleau ! 👏🏻 Tu es en route vers un gros gain !
+  - 🎉 Presque trois ! Il ne manque qu’un symbole pour un jackpot massif !
+  - Double coup ! 💥 Continue de tourner et laisse la chance suivre son cours !
+  - Deux symboles, double plaisir ! 🔥 Tu te rapproches du gros gain.
+  - 💪 Un beau duo ! Deux symboles, c'est un signe que la chance est de ton côté.
+  - Presque ! 🎉 Continue de jouer, peut-être que le prochain spin t’apportera le gros lot !
+  - Beau duo ! Bien joué ! 🚀 Essaie encore, un jackpot énorme t’attend !
+  - Wow-wow ! Beau travail, continue comme ça ! 👏🏻 Fais encore un spin !
+  - Bravo ! Tu es en pleine forme ! 💪💪 Continue de tourner, d'autres grandes récompenses arrivent !
+  - Bien joué ! 💎 Continue, peut-être que le prochain spin te portera chance !
+
+spin_lose: |
+  🎰 <code>{spins_left}</code>
+  💎 <code>{gems_total}</code>
+
+tournament_started: |
+  🏆 <b>Défi Hebdomadaire</b> <code>{tournament_start_date}</code>
+
+  {anon_name}, la bataille royale a commencé ! Il est temps de montrer ce que tu vaux !
+
+  Fais tourner les rouleaux, collecte des 💎 iGems, grimpe au sommet du classement et gagne 🎫 <a href="https://iguild.io/market/collection/igaming-pass/?pid=Telegram">iGaming Pass</a>.
+
+  Ne rate pas 👑 <b>la Couronne du gagnant</b>, le jeu est déjà en cours !
+
+tournament_ended_winner: |
+  🏆 <b>Défi Hebdomadaire</b> <code>{tournament_end_date}</code>
+
+  🎉 <b>Victoire !</b>
+  
+  Félicitations, tu es dans le top trois !
+
+  🏁 <b>Gagnants</b>
+
+  {leaderboard_text}
+
+tournament_ended_loser: |
+  🏆 <b>Défi Hebdomadaire</b> <code>{tournament_end_date}</code>
+
+  Le tournoi est terminé !
+
+  🏁 <b>Gagnants</b>
+
+  {leaderboard_text}
+
+  <blockquote>Fais tourner les rouleaux 🎰, améliore tes compétences 💪, collecte des 💎 iGems et 🎫 <a href="https://iguild.io/market/collection/igaming-pass/?pid=Telegram">iGaming Pass</a> peut devenir à toi !</blockquote>
+
+  Tu as toutes les chances de <b>prendre ta revanche</b> la semaine prochaine !
+
+  <b>Prêt à devenir une légende du tournoi ?</b>
+  Début 🎟 <code>{tournament_start_date}</code>
+
+first_place: 🥇 {gems} 💎 {anon_name}
+second_place: 🥈 {gems} 💎 {anon_name}
+third_place: 🥉 {gems} 💎 {anon_name}
+
+send_email_info: |
+  📧 Envoie un <b>e-mail</b> associé à <a href="https://iguild.io/?pid=Telegram">ton compte iGuild</a> en réponse à ce message.
+
+send_email_already_sent: |
+  👌 <b>Demande reçue</b>
+  
+  Attends ta récompense dans ton portefeuille <b>True Wallet</b>.
+
+  ⚠️ <i>Confirmation de l'email requise <a href="https://iguild.io/app/profile/?pid=Telegram">dans ton profil iGuild</a>.</i>
+
+send_email_sent: |
+  👌 <b>Demande reçue</b>
+  
+  Attends ta récompense dans ton portefeuille <a href="https://iguild.io/?pid=Telegram">True Wallet</a>.
+
+send_email_error: |
+  ❌ <b>Erreur</b>
+  
+  Quelque chose a mal tourné. Contacte l’administrateur du <a href="https://t.me/iGuild_game">groupe</a>.
+
+mute_info: |
+  🔇 Le chat anonyme est désactivé !
+
+unmute_info: |
+  🔊 Accès au chat anonyme rétabli !
+
+ban_info: |
+  🚫 Le bot est désactivé !
+
+unban_info: |
+  ✅ Accès rétabli !
+
+mute_invalid_target: |
+  ❌ Impossible de 🔇 cet utilisateur !
+
+ban_invalid_target: |
+  ❌ Impossible de 🚫 cet utilisateur !
+
+mute_success: |
+  🔇 {anon_name}
+
+unmute_success: |
+  🔊 {anon_name}
+
+ban_success: |
+  🚫 {anon_name}
+
+unban_success: |
+  ✅ {anon_name}

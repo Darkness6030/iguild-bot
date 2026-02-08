@@ -1,0 +1,463 @@
+pick_language: Just pick your <b>language</b> and let’s get started! 💪
+start: 🇬🇧 Start (English)
+cancel: 🚫 Cancel
+
+weekly_challenge: 🏆 Weekly Challenge
+anon_chat: 👤 Anon chat
+anon_chat_start: 💬 Send message
+demo_play: 🔥 Demo Play
+referral: 🚀 Referral
+bonus: 🎁 Bonus
+check_bonus: 🔄 Check
+
+winning_schemes: ⚠️ Winning schemes
+leaderboard: 📊 Statistics
+leaderboard_weekly: Weekly
+leaderboard_weekly_active: 🔺 Weekly
+leaderboard_all_time: All time
+leaderboard_all_time_active: 🔺 All time
+igaming_pass: 🎫 iGaming pass
+iguild: 👑 iGuild
+
+update_name: 🔄 Update name
+send_email: 🎁 Get reward
+claim_bonus: 📺 Claim Free Spins
+play: 🎰 Play
+join: ✅ Join
+send: 💬 Post
+share: ↖️ Share
+
+mute: 🔇 Mute
+unmute: 🔊 Unmute
+ban: 🚫 Ban
+unban: ✅ Unban
+
+forwarded_from: |
+  <code>Forwarded</code> <code>from</code> {anon_name}
+
+forwarded_from_text: |
+  {message_text}
+
+  <code>Forwarded</code> <code>from</code> {anon_name}
+
+tournament_info: |
+  <b>Weekly Tournament</b>
+  <code>{current_tournament_gems}</code> 💎 iGems
+  <code>{current_tournament_spins}</code> 🎰 spins
+
+refill_time_info: |
+  Next refill in <code>{next_refill_time}</code>
+
+few_seconds: few moments
+
+watch_ad_success: |
+  🎉 <b>Bonus</b>
+
+  {anon_name}, your balance is topped up, you're back in the game 👉 /spin
+  
+  <code>+10</code> 🎰
+
+admin_user_info: |
+  ID: <code>{user_id}</code>
+  Name: <code>{user_username}</code>
+  Lang: <code>{user_language}</code>
+
+iguild_info: |
+  👋 {username}, hey there!
+  
+  👑 <b>iGuild</b> — the iGaming community with exclusive NFT bonuses!
+
+  <blockquote>Here, you'll be the first to hear about new games, share your big wins anonymously, and just vibe with fellow slot fans like you!</blockquote>
+  
+  {anon_name} is your nickname in the anonymous chat 👉 /anon and in the 🏆 Weekly Challenge tournament 👉 /spin
+  
+  Enjoy all the perks of the club while <b>staying incognito</b> when you need to 🕵️‍♂️.
+  
+  ⚔️ <b>Build your squad</b> and show everyone who’s boss 👉 /ref
+  
+  💬 <a href="{group_url}">Chats & Rewards</a> — chat, tournaments, and rules
+  
+  🇬🇧 <a href="https://t.me/iGuild_EN">EN Channel</a> — games review and rewards in English
+  
+  🇷🇺 <a href="https://t.me/iGuild_CIS">RU Channel</a> — same, but in Russian
+  
+  Welcome aboard!
+
+weekly_challenge_info: |
+  🏆 <b>Weekly Challenge</b> — the True Royal Battle!
+  
+  Welcome to the tournament!
+
+  <blockquote>Test your luck! Spin the reels, collect 💎 iGems, and climb to the top of the leaderboard.</blockquote>
+
+  <b>How to play?</b>
+  
+  1️⃣ Drop the <code>🎰</code> emoji to the chat 👉 /spin
+  
+  2️⃣ Your balance refreshes every hour.
+  
+  3️⃣ Get <code>+10</code> free spins just for playing daily.
+  
+  4️⃣ Invite friends 👉 /ref and unlock even more rewards.
+
+  Take 🥇 <b>first place</b> and wear the 👑 <b>Crown of the winner</b>. Royal wins let you keep the crown in future tournaments!
+
+winning_schemes_info: |
+  ⚠️ <b>Winning schemes</b> (Combinations)
+
+  7️⃣7️⃣7️⃣ — <code>70</code> 💎 iGems
+  🍇🍇🍇 — <code>30</code> 💎
+  🍸🍸🍸 — <code>20</code> 💎
+  🍋🍋🍋 — <code>20</code> 💎
+  7️⃣7️⃣ — <code>7</code> 💎
+  🍇🍇 — <code>3</code>💎
+  🍋🍋 — <code>2</code> 💎
+  🍸🍸 — <code>2</code> 💎
+
+  🏆 <b>Rewards</b>
+  The tournament runs weekly from Monday to Saturday. Points are added daily, and the winners are announced on Sunday.
+
+  <b>Ready to win?</b>
+  Drop the <code>🎰</code> emoji to the chat or hit 👉 /spin
+
+igaming_pass_info: |
+  <b>What is NFT iGaming Pass?</b>
+
+  This is your ticket into the exclusive VIP club, securing your spot in the community and unlocking all its perks.
+
+  Released as <a href="https://iguild.io/market/collection/igaming-pass/?pid=Telegram">a functional NFT</a> on the Polygon blockchain, 🎫 the iGaming Pass gives its holder access to exclusive bonuses from our project partners.
+
+  <b>What are the benefits of iGaming pass?</b>
+  🔸 Bonuses and gifts from popular casinos, game providers and streamers: freespins, cashbacks, freechips & deposit bonuses.
+  🔸 Regular profitable raffles and secret events.
+  🔸 Access to presales of NFT collections from game providers.
+
+  💎 <b>Grand Lottery</b>
+  Join the 🎫 iGaming Pass holders lottery for a shot at winning a <a href="https://iguild.io/porsche-giveaway?pid=Telegram">Porsche Taycan</a>!
+
+referral_info: |
+  🚀 <b>Progressive Bonuses for Activity</b>
+
+  Want to rack up points faster? Invite your friends using your referral link:
+
+  {referral_link}
+
+  For each player who joins the weekly tournament, you get:
+  
+  <blockquote>🎰 <b>+10 free spins</b> every day
+  
+    💎 <b>5%</b> bonus iGems for every winning combo your referral hits
+  
+    💎 <b>5% of your referral’s tournament balance</b> if they snag a prize spot 👑</blockquote>
+
+  The more active referrals you have, the closer you are to victory!
+
+  ⚔️ <b>Your Team</b> <code>{referrals_shown}/{referrals_total}</code>
+
+  {referrals_text}
+
+referral_message: |
+  🔥 <b>iGuild Weekly Challenge</b> — it's a true battle royale!
+  {referral_link}
+
+bonus_info: |
+  🚀 <b>Spin Booster</b>
+  Crush the tasks 👇
+  Stack up those bonuses!
+  
+  {channels_info}
+
+  Available <code>{spins_left}/{spins_limit}</code> 🎰 👉 /spin
+  {refill_time_info}
+
+channel_info: |
+  <b>{channel_name}</b>
+  {channel_link}
+  {subscribed} +10 🎰
+
+anon_chat_info: |
+  🥷 <b>{username}</b>, anonymity activated!
+
+  Your nickname is {anon_name}
+  
+  Crush tournaments, share your wins, and chat /anon while staying incognito 🕵️‍♂️💬
+
+anon_chat_start_info: |
+  Anonymous message forwarding to the group 👉 <a href="{group_url}">iGuild Community 3.0</a> / <a href="{feedback_topic_url}">Feedback</a>
+  
+  <blockquote>💬 A text message
+  🖼 A picture
+  😎 An emoji or 📺 a sticker</blockquote>
+  
+  Drop <b>to this chat</b> 👇
+
+anon_chat_message_sent: |
+  ✅ Message sent, <a href="{message_url}">check</a>.
+
+leaderboard_info: |
+  📊 <b>Statistics</b>
+  
+  {anon_name}
+
+  <b>All time</b>
+  <code>{gems_total}</code> 💎 iGems
+  <code>{spins_total}</code> 🎰 spins
+  
+  Earned from team 👉 /ref
+  <code>{gems_referral}</code> 💎 iGems
+  
+  <code>x{tournament_wins}</code> 👑 Tournament Wins
+  <code>x{tournament_king_wins}</code> 👑 Royal Wins
+  
+  ⚔️ <b>Leaderbord</b>
+
+  {leaderboard_text}
+
+leaderboard_info_weekly: |
+  📊 <b>Statistics</b>
+  
+  {anon_name}
+
+  <b>Weekly Tournament</b>
+  <code>{current_tournament_gems}</code> 💎 iGems
+  <code>{current_tournament_spins}</code> 🎰 spins
+
+  Available <code>{spins_left}/{spins_limit}</code> 🎰 👉 /spin
+  {refill_time_info}
+
+  ⚔️ <b>Leaderboard</b>
+
+  {leaderboard_text}
+
+user_info: |
+  📊 <b>Statistics</b>
+  
+  {anon_name}
+  
+  <b>All time</b>
+  <code>{gems_total}</code> 💎 iGems
+  <code>{spins_total}</code> 🎰 spins
+  
+  <code>x{tournament_wins}</code> 👑 Tournament Wins
+  <code>x{tournament_king_wins}</code> 👑 King Wins
+
+  {tournament_info}
+
+  {admin_user_info}
+
+no_spins_left: |
+  🥺🌀 <b>Oops! You're out of spins...</b>
+  
+  <b>Want more?</b>
+  💪 Complete the tasks /bonus
+  ⚔️ Make your team /ref
+  📺 Claim Free Spins 👇
+  
+  Free spins will be back in
+  <code>{next_refill_time}</code>
+
+  {tournament_info}
+
+no_spins_warning: |
+  💪 <b>Don't lose your progress!</b>
+  
+  {anon_name}, you’ve got <code>{spins_left}</code> <code>🎰</code> spins 👉 /spin
+
+  <b>Spin to win even more!</b>
+  You’ll get <code>+10</code> <code>🎰</code> spins <b>for every consecutive day</b> you play.
+
+  {tournament_info}
+
+spins_refilled: |
+  🔔 <b>Time to win!</b>
+  
+  {anon_name}, your balance is topped up, you're back in the game 👉 /spin
+  
+  Available <code>{spins_left}</code> 🎰 spins
+  {refill_time_info}
+
+spins_refilled_referral: |
+  New fren from ⚔️ <b>Your team</b> 👉 /ref started playing!
+
+  <code>+10</code> 🎰 are added to your balance. It's time to 👉 /spin
+
+spin_win: |
+  {random_text}
+
+  {spin_result} <code>+{spin_reward}</code> 💎 iGems
+
+  🎰 <code>{spins_left}</code>
+  💎 <code>{gems_total}</code>
+
+spin_win_group: |
+  {anon_name} <code>+{spin_reward}</code> 💎
+  
+  {random_text}
+
+spin_win_777:
+  - Wow! 👏 We have a rockstar here! Everyone, give them a round of applause!
+  - 🏆 True champion detected! Keep collecting those wins!
+  - Great job! You've unlocked the 💎 jackpot with a winning combination of three lucky sevens!
+  - 🔥 Holy smokes! Three sevens in a row! You're on fire!
+  - Look at this master! 😱 You'll be hard to catch up with!
+
+spin_win_ggg:
+  - 🍇 Juicy wins coming your way! Keep spinning those reels!
+  - Sweet success! 🍇 The grapes are ripe for the picking!
+  - Juicy jackpot! 🍇 The grape trio brings the big wins!
+  - Grape expectations exceeded! Your luck is 🍇 grape-tastic!
+  - 🍇 Triple treat! May your points be as abundant as the grapes in this symbol!
+
+spin_win_bbb:
+  - Time to celebrate! 🍸 Cheers to your lucky streak!
+  - 🍸 Triple the fun, triple the taste! Congrats!
+  - Shake it up and savor 🍸 the taste of victory! Congratulations on your winning trio!
+  - Raise your 🍸 glass to three times the excitement! You're on a winning spree!
+  - Cheers to your 🍸 cocktail of luck! Triple the fun, triple the rewards!
+
+spin_win_lll:
+  - When life gives you 🍋 lemons, you get sweet rewards! Keep it up!
+  - Lucky lemonade! Three 🍋 lemons bring a burst of luck your way!
+  - 🍋 Sour power! Three lemons mean you're on a winning streak!
+  - 🍋 Lemon-tastic! Sip on the sweet rewards of your win!
+  - Juicy win! Enjoy 🍋 the citrusy rewards of your lucky spin!
+
+spin_win_two:
+  - Two symbols in sight! 👏🏻 You're on the right path to great success.
+  - 🎉 Almost there! Just one more symbol and you would have hit the BIG WIN!
+  - Twins! 💥 Keep spinning and let the winning streak continue!
+  - Two symbols, double the excitement! 🔥 You're getting closer to a big win.
+  - 💪 A promising pair! Two symbols show that fortune is smiling upon you.
+  - Close call! 🎉 Keep playing and see if the next spin will bring you closer to the grand prize!
+  - Yaaay! Well done! 🚀 Try again for the next big hit!
+  - Woohoo! Great job! 👏🏻 Give it another shot for an even bigger win!
+  - Bravo! You're on a roll! 💪 Keep spinning for more exciting rewards!
+  - Amazing work! 💎 Keep going and see if you can strike gold on your next spin!
+
+spin_lose: |
+  🎰 <code>{spins_left}</code>
+  💎 <code>{gems_total}</code>
+
+tournament_started: |
+  🏆 <b>Weekly Challenge</b> <code>{tournament_start_date}</code>
+
+  {anon_name}, the royal battle has begun! Time to show what you’re made of!
+
+  Spin the reels, collect 💎 iGems, climb to the top of the leaderboard, and grab that 🎫 <a href="https://iguild.io/market/collection/igaming-pass/?pid=Telegram">iGaming Pass</a>.
+
+  Don’t miss out on the 👑 <b>Crown of the winner</b> — the game is already on!
+
+tournament_started_group: |
+  🏆 <b>Weekly Challenge is live!</b>
+
+  It’s time to spin, collect those 💎 iGems, and climb the leaderboard. Every spin gets you closer to the top — so don’t wait!
+
+  Who’s ready to become the tournament legend?
+
+  <b>The game is on!</b> 🔥
+
+tournament_ended_winner: |
+  🏆 <b>Weekly Challenge</b> <code>{tournament_end_date}</code>
+
+  🎉 <b>Victory!</b>
+  
+  Congratulations, you’ve made it to the top three.
+
+  🏁 <b>Winners</b>
+
+  {leaderboard_text}
+
+tournament_ended_loser: |
+  🏆 <b>Weekly Challenge</b> <code>{tournament_end_date}</code>
+
+  The tournament is over!
+
+  🏁 <b>Winners</b>
+
+  {leaderboard_text}
+
+  <blockquote>Spin those reels 🎰, level up your skills 💪, gain 💎 iGems and the 🎫 <a href="https://iguild.io/market/collection/igaming-pass/?pid=Telegram">iGaming Pass</a> could be yours!</blockquote>
+
+  You’ve got every chance <b>to take your revenge</b> next week!
+
+  <b>Ready to become the tournament legend?</b>
+  Next round starts 🎟 <code>{tournament_start_date}</code>
+
+tournament_ended_group: |
+  🏁 <b>Weekly Challenge</b> <code>{tournament_end_date}</code> <b>Awards!</b>
+
+  Congrats to this week’s Top 3 tournament leaders!
+
+  {leaderboard_text}
+
+  They’ve earned their well-deserved rewards! This is what victory looks like.
+
+  <blockquote>But don’t get too comfortable. The next tournament is right around the corner, and your name could be in that top three!</blockquote>
+
+  <b>Are you ready to fight</b> for the top spot?
+
+first_place: 🥇 {gems} 💎 {anon_name}
+second_place: 🥈 {gems} 💎 {anon_name}
+third_place: 🥉 {gems} 💎 {anon_name}
+
+first_place_group: |
+  👑 {anon_name}
+  🥇 <b>1st place:</b> {gems} 💎 — absolutely incredible!
+
+second_place_group: |
+  👤 {anon_name}
+  🥈 <b>2nd place:</b> {gems} 💎, a jack of all trades!
+
+third_place_group: |
+  👤 {anon_name}
+  🥉 <b>3rd place:</b> {gems} 💎, a true player till the last spin!
+
+send_email_info: |
+  📧 Reply to this message with <b>the email</b> linked to <a href="https://iguild.io/?pid=Telegram">your iGuild account</a>.
+
+send_email_already_sent: |
+  👌 <b>Request accepted</b>
+  
+  Expect your reward in your <b>True Wallet</b>.
+  
+  ⚠️ <i>Email confirmation is required in your iGuild account settings.</i>
+
+send_email_sent: |
+  👌 <b>Request accepted</b>
+  
+  Expect your reward in your <a href="https://iguild.io/?pid=Telegram">True Wallet</a>.
+
+send_email_error: |
+  ❌ <b>Error</b>
+  
+  Oops! Something went wrong. Please contact the admin in the <a href="https://t.me/iGuild_game">group</a>.
+
+mute_info: |
+  🔇 Anonymous chat is unavailable!
+
+unmute_info: |
+  🔊 Access to anonymous chat has been restored!
+
+ban_info: |
+  🚫 Bot is unavailable!
+
+unban_info: |
+  ✅ Access has been restored!
+
+mute_invalid_target: |
+  ❌ Unable 🔇 this user.
+
+ban_invalid_target: |
+  ❌ Unable 🚫 this user.
+
+mute_success: |
+  🔇 {anon_name}
+
+unmute_success: |
+  🔊 {anon_name}
+
+ban_success: |
+  🚫 {anon_name}
+
+unban_success: |
+  ✅ {anon_name}
